@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Portfolio criado com objetivo de praticar conhecimentos de HTML, CSS e Designer.
+Portfolio criado com objetivo de praticar conhecimentos de HTML, CSS e Web-Designer.
 
 ## 🔖 Layout
 
